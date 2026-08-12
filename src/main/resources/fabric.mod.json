@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "zheshi_zuobi",
+  "version": "${version}",
+  "name": "这是作弊",
+  "description": "加入能够清空整个区块范围的区块挖掘附魔。",
+  "authors": ["Codex"],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["cn.zheshi.zuobi.ZheshiZuobiMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "fabric-api": "*",
+    "minecraft": "=1.21.1",
+    "java": ">=21"
+  }
+}
+

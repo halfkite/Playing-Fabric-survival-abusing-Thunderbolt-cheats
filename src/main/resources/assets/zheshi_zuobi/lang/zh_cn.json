@@ -1,0 +1,15 @@
+{
+  "enchantment.zheshi_zuobi.chunk_mining": "区块挖掘",
+  "commands.zuobi.rule": "creativeChunkMining：%s（默认：false）",
+  "commands.zuobi.rule.description": "创造模式是否能够触发区块挖掘附魔",
+  "commands.zuobi.changed": "规则 creativeChunkMining 已临时设为 %s",
+  "commands.zuobi.default_set": "规则 creativeChunkMining 的默认值已设为 %s",
+  "commands.zuobi.default_removed": "已移除默认覆盖，creativeChunkMining 恢复为 false",
+  "commands.zuobi.no_permission": "只有 OP 可以修改规则",
+  "message.zheshi_zuobi.creative_disabled": "创造模式区块挖掘已关闭。OP 可用 /zuobi creativeChunkMining true 开启",
+  "message.zheshi_zuobi.busy": "你已有一个区块清理任务，当前进度：%s%%",
+  "message.zheshi_zuobi.started": "区块挖掘已开始：计划 %sx%s，实际处理 %s 个已加载区块",
+  "message.zheshi_zuobi.progress": "区块挖掘进度：%s%%",
+  "message.zheshi_zuobi.finished": "区块挖掘完成，共处理 %s 个区块"
+}
+

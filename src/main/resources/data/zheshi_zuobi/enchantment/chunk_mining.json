@@ -1,0 +1,11 @@
+{
+  "anvil_cost": 8,
+  "description": { "translate": "enchantment.zheshi_zuobi.chunk_mining" },
+  "max_cost": { "base": 55, "per_level_above_first": 10 },
+  "max_level": 6,
+  "min_cost": { "base": 20, "per_level_above_first": 10 },
+  "slots": ["mainhand"],
+  "supported_items": "#minecraft:pickaxes",
+  "weight": 2
+}
+

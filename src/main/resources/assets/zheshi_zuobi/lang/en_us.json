@@ -1,0 +1,15 @@
+{
+  "enchantment.zheshi_zuobi.chunk_mining": "Chunk Mining",
+  "commands.zuobi.rule": "creativeChunkMining: %s (default: false)",
+  "commands.zuobi.rule.description": "Whether Chunk Mining can trigger in Creative mode",
+  "commands.zuobi.changed": "creativeChunkMining was temporarily set to %s",
+  "commands.zuobi.default_set": "The default creativeChunkMining value was set to %s",
+  "commands.zuobi.default_removed": "The default override was removed; creativeChunkMining is now false",
+  "commands.zuobi.no_permission": "Only operators may change rules",
+  "message.zheshi_zuobi.creative_disabled": "Creative Chunk Mining is disabled. An operator can enable it with /zuobi creativeChunkMining true",
+  "message.zheshi_zuobi.busy": "You already have a chunk-clearing job: %s%% complete",
+  "message.zheshi_zuobi.started": "Chunk Mining started: planned %sx%s, processing %s loaded chunks",
+  "message.zheshi_zuobi.progress": "Chunk Mining progress: %s%%",
+  "message.zheshi_zuobi.finished": "Chunk Mining finished after processing %s chunks"
+}
+
